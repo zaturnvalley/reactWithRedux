@@ -22,7 +22,7 @@ class BookList extends Component {
 }
 
 function mapStateToProps(state) {
-  // Whatever is treturned will show up as props
+  // Whatever is returned will show up as props
   // inside of BookList
   return {
     books: state.books
