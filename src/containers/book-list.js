@@ -32,7 +32,9 @@ function mapStateToProps(state) {
 }
 
 function mapDispatchToProps(dispatch) {
+  // whenever selectBook is called, the result should be passed
+  // to all of the reducers
   return bindActionCreators({ selectBook: selectBook }, dispatch)
 }
 
-export default connect(mapStateToProps, mapDispatchToProps)(BookList);
+export default connect(mapStateToProps, g)(BookList);
