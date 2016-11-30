@@ -46,4 +46,4 @@ function mapDispatchToProps(dispatch) {
 // it needs to know about this new dispatch method, selectBook
 // Make it available as a prop
 // reference react redux documentation to read more about connect
-export default connect(mapStateToProps, g)(BookList);
+export default connect(mapStateToProps, mapDispatchToProps)(BookList);
