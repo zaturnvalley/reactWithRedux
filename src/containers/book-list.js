@@ -31,10 +31,16 @@ function mapStateToProps(state) {
   };
 }
 
+// anything returned from this function will end up as 
+// props on the BookList container
 function mapDispatchToProps(dispatch) {
   // whenever selectBook is called, the result should be passed
   // to all of the reducers
   return bindActionCreators({ selectBook: selectBook }, dispatch)
 }
 
+// Promote BookList from a component to a container
+// it needs to know about this new dispatch method, selectBook
+// Make it available as a prop
+// reference react redux documentation to read more about connect
 export default connect(mapStateToProps, g)(BookList);
