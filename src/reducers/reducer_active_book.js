@@ -5,6 +5,7 @@
 export default function(state = null, action) {
   switch(action.type) {
     case 'BOOK_SELECTED':
+      // always return a fresh obj
       return action.payload;
   }
   //if no book selected, return state on intial bootup
