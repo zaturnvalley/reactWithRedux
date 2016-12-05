@@ -40,7 +40,7 @@ export default function() {
     },
     { title: 'A Wild Sheep Chase', 
       pages: 353,
-      about: `is the third novel by Japanese author Haruki Murakami. First published in Japan in 1982, it was translated into English in 1989. It is an independent sequel to 
+      about: `A Wild Sheep Chase is the third novel by Japanese author Haruki Murakami. First published in Japan in 1982, it was translated into English in 1989. It is an independent sequel to 
             Pinball, 1973, and the third book in the so-called "Trilogy of the Rat". It won the 1982 Noma Literary Newcomer's Prize.
             In A Wild Sheep Chase, Murakami blends elements of American and English literature with Japanese contexts, exploring post-WWII Japanese cultural identity. 
             The book is part mystery and part magical realism with a postmodern twist.`,
