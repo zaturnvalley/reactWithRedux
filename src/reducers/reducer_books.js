@@ -11,7 +11,8 @@ export default function() {
             A young John Steinbeck also appears briefly in the novel as a minor character.
             According to his third and last wife, Elaine, Steinbeck considered it his magnum opus. Steinbeck stated about East of Eden: 
             "It has everything in it I have been able to learn about my craft or profession in all these years." He further claimed: 
-            "I think everything else I have written has been, in a sense, practice for this."`
+            "I think everything else I have written has been, in a sense, practice for this."`,
+      img: 'https://upload.wikimedia.org/wikipedia/en/5/56/EastOfEden.jpg'
     },
     { title: 'The Brothers Karamazov', 
       pages: 824,
@@ -21,7 +22,8 @@ export default function() {
             The Brothers Karamazov is a passionate philosophical novel set in 19th-century Russia, that enters deeply into the ethical debates of God, 
             free will, and morality. It is a spiritual drama of moral struggles concerning faith, doubt, judgment, and reason, set against a modernizing 
             Russia, with a plot which revolves around the subject of patricide. Dostoyevsky composed much of the novel in Staraya Russa, which inspired 
-            the main setting. Since its publication, it has been acclaimed as one of the supreme achievements in world literature.` 
+            the main setting. Since its publication, it has been acclaimed as one of the supreme achievements in world literature.`,
+      img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dostoevsky-Brothers_Karamazov.jpg/440px-Dostoevsky-Brothers_Karamazov.jpg'
     },
     { title: 'Kafka on the Shore', 
       pages: 480,
@@ -33,14 +35,16 @@ export default function() {
             after him in connection with a brutal murder. The even chapters tell Nakata's story. Due to his uncanny abilities, he has found part-time work in his old age 
             as a finder of lost cats (notably, Murakami's earlier work The Wind-Up Bird Chronicle also involves searching for a lost cat). The case of one particular 
             lost cat puts him on a path that ultimately takes him far away from his home, ending up on the road for the first time in his life. He befriends a truck driver 
-            named Hoshino, who takes him on as a passenger in his truck and soon becomes very attached to the old man.`
+            named Hoshino, who takes him on as a passenger in his truck and soon becomes very attached to the old man.`,
+      img: 'https://upload.wikimedia.org/wikipedia/en/1/12/Kafkaontheshore.jpg'
     },
     { title: 'A Wild Sheep Chase', 
       pages: 353,
       about: `is the third novel by Japanese author Haruki Murakami. First published in Japan in 1982, it was translated into English in 1989. It is an independent sequel to 
             Pinball, 1973, and the third book in the so-called "Trilogy of the Rat". It won the 1982 Noma Literary Newcomer's Prize.
             In A Wild Sheep Chase, Murakami blends elements of American and English literature with Japanese contexts, exploring post-WWII Japanese cultural identity. 
-            The book is part mystery and part magical realism with a postmodern twist.` 
+            The book is part mystery and part magical realism with a postmodern twist.`,
+      img: 'https://upload.wikimedia.org/wikipedia/en/a/a5/Haruki_murakami_a_wild_sheep_chase_9780375718946.jpg'
     }
   ]
 }
